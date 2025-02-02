@@ -1,1 +1,1 @@
-Progress for introduciton to machine learning. Iniital code was rough, but the format improved as I learned how to use GitHub.
+Progress for introduciton to machine learning. Iniital code was rough, but the format improved as I learned how to use GitHub. Here is the [link](https://archive.org/details/introductiontoma0000mull) for the PDF used.
